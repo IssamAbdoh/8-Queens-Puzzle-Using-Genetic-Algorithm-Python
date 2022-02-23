@@ -1,4 +1,4 @@
-"# 8-Queens-Puzzle-Using-Genetic-Algorithm-Python-" 
+"# 8-Queens-Puzzle-Using-Genetic-Algorithm-Python" 
 
 8-Queens Puzzle Using Genetic Algorithm ( Python )
 
