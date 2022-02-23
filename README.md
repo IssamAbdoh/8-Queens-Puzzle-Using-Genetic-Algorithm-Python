@@ -6,10 +6,12 @@ Each iteration will get you either an objective function value of 1 or 0 , in ot
 
 
 objective function value = 0
+
 ![](https://github.com/IssamAbdoh/8-Queens-Puzzle-Using-Genetic-Algorithm-Python/blob/main/Output%20Samples/Capture2.PNG)
 
 
 objective function value = 1
+
 ![](https://github.com/IssamAbdoh/8-Queens-Puzzle-Using-Genetic-Algorithm-Python/blob/main/Output%20Samples/Capture1.PNG)
 
 
